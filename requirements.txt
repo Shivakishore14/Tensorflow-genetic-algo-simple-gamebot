@@ -1,0 +1,4 @@
+pygame==1.9.3
+numpy==1.11.0
+tensorflow_gpu==1.2.1
+tensorflow==1.4.0
